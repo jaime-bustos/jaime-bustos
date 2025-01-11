@@ -8,4 +8,3 @@
 - 📫 Email: jaimebustosbusiness@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen)
