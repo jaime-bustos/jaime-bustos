@@ -9,7 +9,4 @@
 - 🌐 [Personal Website](https://jaimebustos.com)  
 - 📫 Email: jaimebustosbusiness@gmail.com
 
-![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimebustosjr&show_icons=true&theme=radical)
-
-
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
