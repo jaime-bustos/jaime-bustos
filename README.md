@@ -8,5 +8,3 @@
 - 💼 [LinkedIn](https://linkedin.com/in/jaimebustosjr)  
 - 🌐 [Personal Website](https://jaimebustos.com)  
 - 📫 Email: jaimebustosbusiness@gmail.com
-
-![Python](https://img.shields.io/badge/Python-3.8-blue)
