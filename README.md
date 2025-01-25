@@ -1,5 +1,5 @@
 # Hi, I'm Jaime 👋
-- 🔭 Developing AI-driven applications for web platforms and robotics.
+- 🔭 Developing an AI-driven application for a revolutionary education platform.
 - 🌱 Focusing on NLP tasks (text classification, sentiment analysis) and deploying scalable machine learning models.
 - 🛠️ Experimenting with Edge AI for real-time inference on low-power devices. 
 
