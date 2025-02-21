@@ -7,4 +7,4 @@
 ## Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/jaimebustosjr)  
 - 🌐 [Personal Website](https://jaimebustos.com)  
-- 📫 Email: jaimebustosbusiness@gmail.com
+- 📫 Email: jaimebustos@litica.com
