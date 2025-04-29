@@ -1,7 +1,7 @@
 # Hi, I'm Jaime 👋
-- 🔭 Developing an AI-driven application for a revolutionary education platform.
-- 🌱 Focusing on NLP tasks (text classification, sentiment analysis) and deploying scalable machine learning models.
-- 🛠️ Experimenting with Edge AI for real-time inference on low-power devices. 
+- 🔭 Leading data-driven projects that transform complex datasets into actionable insights.
+- 🌱 Specializing in statistical analysis, exploratory data analysis, and algorithm design.
+- 🛠️ Building efficient algorithms and data pipelines to power evidence-based decision making.
 
 
 ## Connect with Me
