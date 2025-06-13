@@ -1,8 +1,8 @@
 # Hi, I'm Jaime 👋
-- 🔭 Leading data-driven projects that transform complex datasets into actionable insights.
-- 🌱 Specializing in statistical analysis, exploratory data analysis, and algorithm design.
-- 🛠️ Building efficient algorithms and data pipelines to power evidence-based decision making.
-
+- 🛰️ Building intelligent systems at the edge of AI and space exploration.
+- 🧠 Focused on agent design, custom LLMs, and autonomous decision systems.
+- 📊 Turning raw data into structured insight through ML, statistical modeling, and algorithmic analysis.
+- 🔧 Engineering scalable pipelines and logic-driven systems to power real-world applications.
 
 ## Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/jaimebustosjr)  
